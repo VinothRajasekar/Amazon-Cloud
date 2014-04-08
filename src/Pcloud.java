@@ -85,16 +85,7 @@ public class Pcloud {
 		//Thread.sleep(2*60*1000); 
 		//BufferedInputStream c= new BufferedInputStream(p.getInputStream());
 		System.out.println("state:" + instance.getState());
-		// Process p = null;
-		 //ProcessBuilder pb = new ProcessBuilder(instance.getPublicDnsName());
-		 //System.out.println(instance.getState());
-		//System.out.println(instance.getPublicIpAddress());
-		 //pb.directory(new File("/home/ubuntu/benchmark/apache_bench.sh sample.jpg 10 1"+" logfile"));
-		// System.out.println("" + pb.directory());
-		 //p = pb.start();
-
-		
-		//System.out.println(p);
+	
 		
 		
 		
