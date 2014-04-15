@@ -74,8 +74,6 @@ public class Pcloud {
 		System.out.println(instance.getPublicDnsName());
 		
 		
-		//Process p = Runtime.getRuntime().exec(instance.getPublicIpAddress());
-		
 		System.out.println("Hello:" + instance.getPublicDnsName());
 		
 		//Process p = Runtime.getRuntime().exec("/home/ubuntu/benchmark/apache_bench.sh sample.jpg 100000 10 "+instance.getPublicIpAddress()+" logfile");
